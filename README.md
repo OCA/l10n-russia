@@ -1,8 +1,8 @@
 
-[![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/l10n-russia&target_branch=14.0)
-[![Build Status](https://travis-ci.com/OCA/l10n-russia.svg?branch=14.0)](https://travis-ci.com/OCA/l10n-russia)
-[![codecov](https://codecov.io/gh/OCA/l10n-russia/branch/14.0/graph/badge.svg)](https://codecov.io/gh/OCA/l10n-russia)
-[![Translation Status](https://translation.odoo-community.org/widgets/l10n-russia-14-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/l10n-russia-14-0/?utm_source=widget)
+[![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/l10n-russia&target_branch=11.0)
+[![Build Status](https://travis-ci.com/OCA/l10n-russia.svg?branch=11.0)](https://travis-ci.com/OCA/l10n-russia)
+[![codecov](https://codecov.io/gh/OCA/l10n-russia/branch/11.0/graph/badge.svg)](https://codecov.io/gh/OCA/l10n-russia)
+[![Translation Status](https://translation.odoo-community.org/widgets/l10n-russia-11-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/l10n-russia-11-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
 

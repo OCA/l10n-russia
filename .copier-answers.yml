@@ -7,7 +7,7 @@ generate_requirements_txt: true
 github_enable_stale_action: true
 include_wkhtmltopdf: false
 odoo_test_flavor: Both
-odoo_version: 14.0
+odoo_version: 11.0
 org_name: Odoo Community Association (OCA)
 org_slug: OCA
 rebel_module_groups: []
