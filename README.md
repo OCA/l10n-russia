@@ -16,7 +16,12 @@ TODO: add repo description.
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[l10n_ru](l10n_ru/) | 11.0.0.0.1 |  | Russia - Accounting
+[l10n_ru_doc](l10n_ru_doc/) | 11.0.0.0.1 |  | Russia - Documents
 
 [//]: # (end addons)
 
