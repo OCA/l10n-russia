@@ -1,6 +1,6 @@
 {
     "name": "Russia - Accounting",
-    "version": "11.0.0.0.1",
+    "version": "14.0.1.0.0",
     "category": "Localization",
     "author": "CodUP, Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/l10n-russia",
