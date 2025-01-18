@@ -7,9 +7,7 @@
 
 <!-- /!\ do not modify above this line -->
 
-# l10n-russia
-
-TODO: add repo description.
+# Odoo Russian Localization / Российская локализация для Odoo
 
 <!-- /!\ do not modify below this line -->
 
@@ -17,7 +15,11 @@ TODO: add repo description.
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[l10n_ru](l10n_ru/) | 17.0.1.0.0 | [![Katulos](https://github.com/Katulos.png?size=30px)](https://github.com/Katulos) | Russia - Accounting
 
 [//]: # (end addons)
 
