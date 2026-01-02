@@ -11,6 +11,6 @@
     "application": False,
     "installable": True,
     "depends": ["account"],
-    "auto_install": ["account"]
-    "data": ["data/res_bank.xml"],
+    "auto_install": ["account"],
+    # "data": ["data/res_bank.xml"],
 }
