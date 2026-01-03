@@ -12,5 +12,6 @@
     "installable": True,
     "depends": ["account"],
     "auto_install": ["account"],
-    # "data": ["data/res_bank.xml"],
+    "data": ["views/res_bank.xml"],
+    "demo": ["data/res_bank_demo.xml"],
 }
