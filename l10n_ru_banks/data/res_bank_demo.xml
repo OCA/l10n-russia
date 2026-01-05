@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<odoo>
-    <data noupdate="1">
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo noupdate="1">
 
         <record model="res.bank" id="bank_sber">
             <field name="name">ПАО Сбербанк</field>
             <field name="bic">044525225</field>
             <field name="corr_acc">30101810400000000225</field>
             <field name="city">г. Москва</field>
-            <field name="state" ref="base.state_ru_mow"></field>
+            <field name="state" ref="base.state_ru_mow" />
             <field name="street">улица Вавилова, дом 19</field>
             <field name="zip">117312</field>
-            <field name="country" ref="base.ru"></field>
+            <field name="country" ref="base.ru" />
             <field name="email">sberbank@sberbank.ru</field>
         </record>
 
@@ -19,10 +18,10 @@
             <field name="bic">044525593</field>
             <field name="corr_acc">30101810200000000593</field>
             <field name="city">г. Москва</field>
-            <field name="state" ref="base.state_ru_mow"></field>
+            <field name="state" ref="base.state_ru_mow" />
             <field name="street">улица Каланчевская, дом 27</field>
             <field name="zip">107078</field>
-            <field name="country" ref="base.ru"></field>
+            <field name="country" ref="base.ru" />
             <field name="phone">+7 495 620-91-91</field>
             <field name="email">mail@alfabank.ru</field>
         </record>
@@ -31,13 +30,11 @@
             <field name="bic">044525187</field>
             <field name="corr_acc">30101810700000000187</field>
             <field name="city">г. Москва</field>
-            <field name="state" ref="base.state_ru_mow"></field>
+            <field name="state" ref="base.state_ru_mow" />
             <field name="street">Пресненская набережная, дом 12</field>
             <field name="zip">123100</field>
-            <field name="country" ref="base.ru"></field>
+            <field name="country" ref="base.ru" />
             <field name="phone">+7 495 775-78-22</field>
         </record>
 
-    </data>
 </odoo>
-
