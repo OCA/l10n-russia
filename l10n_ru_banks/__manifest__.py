@@ -1,5 +1,5 @@
 {
-    "name": "Russian Banks",
+    "name": "Russian - Banks",
     "summary": "Russian banks and their addresses",
     "version": "17.0.1.0.0",
     "countries": ["ru"],
