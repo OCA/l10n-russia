@@ -104,7 +104,8 @@ msgstr ""
 #. odoo-python
 #: code:addons/l10n_ru_banks/wizard/update_banks_wizard.py:0
 #, python-format
-msgid "Import complete: %s banks created, %s updated."
+msgid ""
+"Import complete: %(created_count)s banks created, %(updated_count)s updated."
 msgstr ""
 
 #. module: l10n_ru_banks
