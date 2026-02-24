@@ -1,8 +1,9 @@
 [project]
 name = "odoo-addons-oca-l10n-russia"
-version = "17.0.20250118.0"
+version = "17.0.20260108.0"
 dependencies = [
     "odoo-addon-l10n_ru>=17.0dev,<17.1dev",
+    "odoo-addon-l10n_ru_banks>=17.0dev,<17.1dev",
 ]
 classifiers=[
     "Programming Language :: Python",
